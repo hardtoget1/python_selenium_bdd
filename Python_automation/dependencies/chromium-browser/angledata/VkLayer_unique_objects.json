@@ -1,0 +1,1 @@
+{"file_format_version": "1.0.0", "layer": {"description": "Google Validation Layer", "library_path": "libVkLayer_unique_objects.so", "implementation_version": "1", "type": "GLOBAL", "api_version": "1.0.44", "name": "VK_LAYER_GOOGLE_unique_objects"}}

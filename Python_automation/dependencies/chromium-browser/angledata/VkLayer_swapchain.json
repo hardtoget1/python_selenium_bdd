@@ -1,0 +1,1 @@
+{"file_format_version": "1.0.0", "layer": {"instance_extensions": [{"spec_version": "3", "name": "VK_EXT_debug_report"}], "description": "LunarG Validation Layer", "library_path": "libVkLayer_swapchain.so", "implementation_version": "1", "type": "GLOBAL", "api_version": "1.0.44", "name": "VK_LAYER_LUNARG_swapchain"}}
